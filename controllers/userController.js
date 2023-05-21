@@ -1,5 +1,5 @@
 const { User, Thought} = require('../models');
-const { add } = require('../models/Reactions');
+
 
 module.exports = {
     

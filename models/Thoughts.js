@@ -3,7 +3,7 @@ const datejs = require('datejs');
 
 thoughtSchema = new Schema(
     {
-        thoughtText: {
+     thoughtText: {
             type: String,
             required: true,
             min: 1,
